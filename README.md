@@ -51,5 +51,5 @@ todo-app/
 
 ## Author
 
-Gunjit Kumar Dhakar
-Email - gunjit15@gmail.com
+- Gunjit Kumar Dhakar
+- Email - gunjit15@gmail.com
