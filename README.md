@@ -3,7 +3,7 @@
 Hey there! 👋 This is my Todo App project built with React. It's a simple yet elegant solution for managing your daily tasks with a clean, modern interface.
 
 ## Live Demo
-Check out the live version here: [Todo App](https://your-netlify-link.netlify.app)
+Check out the live version here: [Todo App](https://candid-snickerdoodle-923f9a.netlify.app)
 
 ## What I Built
 
